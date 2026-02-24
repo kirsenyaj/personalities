@@ -31,7 +31,7 @@ function App() {
 
       <Paper elevation={2} sx={{ p: 2, mb: 4, bgcolor: '#f5f5f5' }}>
         <Typography variant="subtitle1"><strong>Name:</strong> Kirsen Yaj Villanueva</Typography>
-        <Typography variant="subtitle1"><strong>Subject:</strong> C-PEITEL6</Typography>
+        <Typography variant="subtitle1"><strong>Subject:</strong> C-PEITEL3</Typography>
         <Typography variant="subtitle1"><strong>Section:</strong> IT3A</Typography>
       </Paper>
 
